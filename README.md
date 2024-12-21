@@ -8,7 +8,7 @@ ID:CT08EAQ,
 
 Domain:POWER BI,
 
-Duration:December,2024 to January,2025,
+Duration:17th December,2024 to 17th January,2025,
 
 Mentor:Neela Santhosh Kumar.
 
