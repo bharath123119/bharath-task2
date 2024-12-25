@@ -16,10 +16,6 @@ Mentor:Neela Santhosh Kumar.
 
 Human Resource Analytics:
 
-Data set:"C:\Users\Bharath\Downloads\hr-data.xlsx"
-
-Dashboard:"C:\Users\Bharath\OneDrive\Pictures\Screenshots\Screenshot 2024-12-21 114443.png"
-
 Process:
 
 Step1:Prepare a HR dataset.
