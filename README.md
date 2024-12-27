@@ -41,7 +41,7 @@ Step10:Create a Dashboard for "Sum of Salary" by using "Gauge".
 Step11:Create a Dashboard for "Sum of salary by Emp ID" by using Stacked column chart".
 
 
-Conclusion:Create some Dashboards for Human Resources Analytics.
+Conclusion:Create some Dashboards by using Human Resources dataset.
 
 
 
